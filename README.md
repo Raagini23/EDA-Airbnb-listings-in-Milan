@@ -39,3 +39,10 @@ The project makes use of the following Python libraries:
 - seaborn
 - plotly
 - geopandas
+
+## Launch Interactive EDA Notebook
+
+You can view and interact with the notebook here:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Raagini23/EDA-Airbnb-listings-in-Milan/HEAD?urlpath=voila/render/eda%202.ipynb)
+
