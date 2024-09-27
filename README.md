@@ -1,10 +1,10 @@
 # EDA on Airbnb Listings in Milan
 
-This project is an exploratory data analysis (EDA) on Airbnb listings in Milan. The objective is to analyze the dataset to extract meaningful insights about the properties, hosts, and the overall market in Milan.
+This project is an exploratory data analysis (EDA) on Airbnb listings in Milan, aimed at extracting actionable insights for property hosts and owners. The analysis focuses on understanding market dynamics, pricing strategies, and identifying opportunities within the Milan Airbnb market.
 
 ## Dataset
 
-The dataset used in this analysis was sourced from https://insideairbnb.com/milan/. It includes detailed information about Airbnb listings such as prices, reviews, property types, and more.
+The dataset used for this analysis was obtained from Inside Airbnb (https://insideairbnb.com/milan/). It contains comprehensive information about listings, including prices, reviews, property types, and availability.
 
 ## Project Structure
 
@@ -26,8 +26,8 @@ The dataset used in this analysis was sourced from https://insideairbnb.com/mila
 ## Visualizations
 
 Several visualizations were created to illustrate the trends and patterns in the data, including:
-- Price distribution across different neighborhoods.
-- Average number of reviews per property.
+- Correlation of Price with Minimum Nights, No. of Reviews etc
+- .Details of High-priced listings
 - Property types and their availability.
 
 ## Libraries
@@ -37,3 +37,5 @@ The project makes use of the following Python libraries:
 - numpy
 - matplotlib
 - seaborn
+- plotly
+- geopandas
