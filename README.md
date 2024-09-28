@@ -1,3 +1,9 @@
+## Launch Interactive EDA Notebook
+
+You can view and interact with the notebook here:
+[
+](https://nbviewer.org/github/Raagini23/EDA-Airbnb-listings-in-Milan/blob/main/Airbnb%20listings%20Milan%20EDA%20.ipynb)
+
 # EDA on Airbnb Listings in Milan
 
 This project is an exploratory data analysis (EDA) on Airbnb listings in Milan, aimed at extracting actionable insights for property hosts and owners. The analysis focuses on understanding market dynamics, pricing strategies, and identifying opportunities within the Milan Airbnb market.
@@ -39,11 +45,3 @@ The project makes use of the following Python libraries:
 - seaborn
 - plotly
 - geopandas
-
-## Launch Interactive EDA Notebook
-
-You can view and interact with the notebook here:
-
-https://mybinder.org/v2/gh/Raagini23/EDA-Airbnb-listings-in-Milan/HEAD?urlpath=voila/render/eda%202.ipynb
-
-
