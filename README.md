@@ -1,8 +1,8 @@
 ## Launch Interactive EDA Notebook
 
 You can view and interact with the notebook here:
-[
-](https://nbviewer.org/github/Raagini23/EDA-Airbnb-listings-in-Milan/blob/main/Airbnb%20listings%20Milan%20EDA%20.ipynb)
+
+([https://nbviewer.org/github/Raagini23/EDA-Airbnb-listings-in-Milan/blob/main/Airbnb%20listings%20Milan%20EDA%20.ipynb)]
 
 # EDA on Airbnb Listings in Milan
 
